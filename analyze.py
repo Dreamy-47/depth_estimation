@@ -66,5 +66,5 @@ def main(svo_input_path):
     cam.close()
     cv2.destroyAllWindows()
 if __name__ == "__main__":
-    svo_input_path = r"record\202403191939\202403191939.svo"
+    svo_input_path = r"record\dest\3-72.5-164.5-318.5\202403251651.svo"
     main(svo_input_path)
